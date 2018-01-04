@@ -1,6 +1,6 @@
 # myfirstrepo
 This is my first repository, created as part of the induction session with Tania Allard on 9 Oct 2017.
-We were told to create a ReadMe file, so I did.
+We were told to create a ReadMe file, so I did. And now, January 2018, we're asked to make a tiny change; this is it!
 They also wanted me to put some random text is - here goes:
 
 # Friendly Collaboration Party
